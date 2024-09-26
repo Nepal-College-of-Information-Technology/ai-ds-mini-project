@@ -53,5 +53,12 @@ project-directory/
 │   └── final_report.pdf    # Final project report
 │   └── presentation.pptx   # Final presentation slides
 │
+├── workshop/               # Folders maintained by each member
+│   └── Member1             
+│   └── Member2
+│   └── Member3
+│   └── Member4
+│   └── Member5
+│
 ├── README.md               # This README file
 └── requirements.txt        # Python dependencies
